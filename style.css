@@ -20,14 +20,15 @@ to this section's matching END comment to see page-specific styles.
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-}
-
-@font-face {
+  @font-face {
   font-family: "Outfit", sans-serif;
   font-style: normal;
   font-weight: 600;
   @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@700;900&display=swap");
 }
+}
+
+
 
 .mainContainer {
   height: 100vh;
