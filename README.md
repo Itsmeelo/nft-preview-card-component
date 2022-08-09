@@ -22,7 +22,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: [solution URL here](https://glitch.com/edit/#!/citrine-abundant-receipt?path=index.html%3A81%3A18)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://itsmeelo.github.io/nft-preview-card-component/)
 - GitHub Site URL: [GitHub site URL here](https://itsmeelo.github.io/nft-preview-card-component/)
 
 ## My process
